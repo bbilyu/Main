@@ -1,5 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more informatio
-
-Console.WriteLine("agdsgs Hello, World!");
-
-
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
